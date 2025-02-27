@@ -64,6 +64,21 @@ const products = [
         link: '#',
         thumbnail: 'https://cdn.dribbble.com/userupload/18157984/file/original-16a72a4b6e97a212f8138d3162a80f61.png',
     },
+    {
+        title: 'Product 14',
+        link: '#',
+        thumbnail: 'https://cdn.dribbble.com/userupload/11871769/file/original-a6b7e6f93db4c0a552d14fcdd03b78a4.png',
+    },
+    {
+        title: 'Product 15',
+        link: '#',
+        thumbnail: 'https://cdn.dribbble.com/userupload/10588312/file/original-278b7bfb422a942e3fb26f9649206c91.png',
+    },
+    {
+        title: 'Product 16',
+        link: '#',
+        thumbnail: 'https://cdn.dribbble.com/userupload/32632800/file/original-d4e0b1fc5c1294bd1bee410d67db3f0b.png',
+    },
 ]
 
 export default products;
